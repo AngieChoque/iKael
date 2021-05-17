@@ -1,0 +1,62 @@
+.polices-check{
+    margin-top: 1em;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.polices-check input{
+    border: solid 1px #788685;
+}
+.polices-check input:focus{
+    background-color:  #788685;
+}
+.polices-check p{
+    margin: 0px;
+    color: rgb(20, 12, 12);
+    text-align: center;
+    text-decoration: none;
+}
+.back-btn{
+     margin-bottom: 1em;
+      width: 40%;
+      background-color: rgb(0, 128, 128);
+      color: white;
+      font-size: 1.5em;
+      border: 0px;
+      padding-top: 0,2em;
+      padding-bottom: 0,2em;
+      padding-right: 2em;
+      border-radius: 5px;
+      text-decoration: none;
+      text-align: center;
+      
+}
+.input-container{
+    width: 95%;
+
+}
+.login-btn{
+    width: 40%;
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
